@@ -1,3 +1,3 @@
-# Solucao-e-Gabarito-Java-URI-Beecrowd-
+# Solucao-e-Gabarito-Java-URI-Beecrowd
 Solução e gabarito dos problemas do antigo URI (Online Judge Solutions) ou atual Beecrowd na linguagem de programação JAVA. 
 Nível: Iniciante
