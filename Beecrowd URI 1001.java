@@ -9,7 +9,7 @@ public class Main{
         Scanner entrada = new Scanner (System.in);
         a = entrada.nextInt();
         b = entrada.nextInt();
-		    x = a + b;
+	x = a + b;
         
         System.out.println("X = " + x);
     }
